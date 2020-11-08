@@ -1,0 +1,14 @@
+*{
+    margin:0;
+}
+
+.yo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 5vh;
+    /* background-color: aquamarine; */
+    background-color: blue;
+    height: 10vh;
+}
